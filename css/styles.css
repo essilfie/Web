@@ -38,6 +38,16 @@ p{
 }
 
 
+/* section edits */
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
 /* Navbar edits */
 .navbar{
     padding: 0 0 4.5rem;
@@ -65,15 +75,10 @@ p{
 }
 
 /* headings edit */
-#title{
-    background-color: #ff4c68;
-    color: white;
-    text-align: left;
-}
-
 /* target specifically the navbar padding */
 #title .container-fluid {
     padding: 3% 15% 7%;
+    text-align: left;
 }
 
 /* Title image edit */
@@ -99,7 +104,6 @@ p{
 
 /* features edit */
 #features{
-    background-color: #fff;
     position: relative;
 }
 
@@ -121,7 +125,6 @@ p{
 /* testimonial edit */
 #testimonials{
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-image{
@@ -149,20 +152,12 @@ p{
 
 
 /* call to action edits */
-#cta{
-    background-color: #ff4c68;
-    color: #fff;
-}
-
 .call-h3 {
     font-size: 3rem;
     padding: 5%;
 }
 
 /* footer edits */
-#footer{
-    background-color: #fff;
-}
 
 .footer-icon {
     margin-bottom: 1rem;
